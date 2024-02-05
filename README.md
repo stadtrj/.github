@@ -1,1 +1,1 @@
-# .github
+# Stadt Rapperswil-Jona
